@@ -1,0 +1,17 @@
+.scannerwork/
+.vscode/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.coverage
+report.html
+style.css
+
+htmlcov/
+*.code-workspace
+my_seeder.py
+
+venv/
